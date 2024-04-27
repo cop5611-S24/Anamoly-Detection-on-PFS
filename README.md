@@ -15,7 +15,7 @@ Below are the required software/libraries that need to be installed
 7. sklearn seaborn
 
 ### How to run
-1. Download the files to your local machine
+1. Download the AOS_Project folder to your local machine
 2. AOS-Project/filter contains the preprocessed data. You need to replace the file path accordingly.
 3. **os-project.ipynb** demonstrates the BiLSTM model using the Tensorflow Keras framework.
 5. os-transformer-model.ipynb demonstrates the Transformer model using the Tensorflow Keras framework.
