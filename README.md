@@ -1,6 +1,6 @@
 # Anamoly-Detection-on-PFS
 
-SentiLog, is a pioneering approach in high-performance computing, specifically targeting parallel file systems (PFSes). Applies deep learning techniques to analyze developers' emotional context in logging statements for efficient anomaly detection.  By overcoming unique challenges in PFS log analysis, SentiLog establishes itself as a novel and effective solution in the evolving landscape of high-performance computing.
+SentiLog, is a pioneering approach in high-performance computing, specifically targeting parallel file systems (PFSes). Applies deep learning techniques to analyze developers' emotional context in logging statements for efficient anomaly detection.  By overcoming unique challenges in PFS log analysis, SentiLog establishes itself as a novel and effective solution in the evolving landscape of high-performance computing. In this project, we successfully implemented the BiLSTM model using Keras as mentioned in the paper[^1] also implemented another model using the Transformers
 
 ## Getting Started
 
@@ -30,5 +30,5 @@ Below are the required software/libraries that need to be installed
 
 ## Authors
 
-* **Di Zhang, Dong Dai and Runzhou Han, Mai Zheng** - *Initial work* - [SentiLog]([https://github.com/PurpleBooth](https://dl.acm.org/doi/10.1145/3465332.3470873))
+* **Di Zhang, Dong Dai and Runzhou Han, Mai Zheng** - *Initial work* - [Paper](https://dl.acm.org/doi/10.1145/3465332.3470873)
 
