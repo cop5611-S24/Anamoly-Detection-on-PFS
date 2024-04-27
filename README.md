@@ -28,7 +28,7 @@ Below are the required software/libraries that need to be installed
 3. Sohail Uddin Syed
  
 
-## Authors of SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis
+## SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis
 
 * **Di Zhang, Dong Dai and Runzhou Han, Mai Zheng** - *Initial work* - [Link to paper](https://dl.acm.org/doi/10.1145/3465332.3470873)
 
